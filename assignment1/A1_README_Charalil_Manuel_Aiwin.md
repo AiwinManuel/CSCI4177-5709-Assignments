@@ -6,7 +6,7 @@
 * *Last Modification Date*: 7 Feb 2024
 * *A1 Lab URL*: https://git.cs.dal.ca/acmanuel/csci4177-5709-assignments/-/tree/main/assignment1?ref_type=heads
 * *A1 Git URL*: https://github.com/AiwinManuel/CSCI4177-5709-Assignments/tree/main/assignment1
-* *A1 Production domain*: https://roaring-sunburst-e9f408.netlify.app
+* *A1 Production domain*: https://main--preeminent-pixie-c3c5c8.netlify.app/
 
 
 ## Authors

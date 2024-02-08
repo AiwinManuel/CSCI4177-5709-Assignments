@@ -1,0 +1,77 @@
+.book-detail-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Aligns items to the top */
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  .book-info {
+    width: 60%;
+  }
+  
+  .book-reviews-ratings {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .book-reviews {
+    margin-bottom: 20px; /* Adjust this value as needed */
+  }
+  
+  .book-ratings {
+    margin-bottom: 20px; /* Adds margin below the ratings section */
+  }
+  
+  img {
+    max-width: 40%;
+    height: auto;
+  }
+  
+  button {
+    margin-right: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background: unset;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .next-button {
+    margin-top: 10px; /* Spacing above the next button */
+    background: unset
+  }
+
+  .book-image-container {
+    position: relative;
+  }
+  
+  .action-buttons {
+    display: inline-block; /* or 'flex' if you prefer flexbox */
+  }
+  
+  .favorite-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin-left: 10px; /* Spacing between the buttons */
+  }
+  
+  
+  .favorite-button img {
+    width: 150px; /* or the size of your icons */
+    height: auto;
+
+   }
+   
+  

@@ -1,0 +1,33 @@
+/* CustomNavbar.css */
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.nav-item {
+    display: flex;
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav-link {
+    padding-right: 1rem; /* Adjust based on your spacing preference */
+    text-decoration: none;
+}
+
+.navbar-toggler {
+    display: none;
+}
+
+.navbar-brand {
+    flex-grow: 1;
+}
